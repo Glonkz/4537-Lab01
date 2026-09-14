@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fa39536-8165-471c-b873-56ec5ce23ded" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2510 (C Lang)/Assignments/Assign3/.idea/Assign3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2510 (C Lang)/Labs/Lab06/.idea/Lab06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2510 (C Lang)/Labs/Lab07/.idea/Lab07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2510 (C Lang)/Labs/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2510 (C Lang)/Practice/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Jason's Code/Midterm Review/Midterm Review.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Jason's Code/Testing/comp2522 lesson 12 nov 20 2025.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Jason's Code/comp2522 lesson 9 oct 30 2025/comp2522 lesson 9 oct 30 2025.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Comp 2522 Lab01 Sept 7/Comp 2522 Lab01 Sept 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Comp 2522 Lab02 Sept 23/Comp 2522 Lab02 Sept 23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Comp 2522 Lab06 Oct 29/.idea/Comp 2522 Lab06 Oct 29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Jaspreet-Bath-Comp2522-Assgn01-Sept30/Jaspreet-Bath-Comp2522-Assgn01-Sept30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Jaspreet-Bath-Comp2522-Lab03-Oct15/Jaspreet-Bath-Comp2522-Lab03-Oct15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Lab 09/Lab 09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Lab 09/out/production/Lab 09/ca/bcit/comp2522/code/Lab 09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Lab10/Lab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Lab10/out/production/Lab10/ca/bcit/comp2522/bookstore/Lab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Lab11/.idea/Lab11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Midterm Prep from quiz 1 to quiz 5/Midterm Prep from quiz 1 to quiz 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Practice week 3/Practice week 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Week 4 Practice/Week 4 Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Week 5 Practice/Week 5 Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Labs/Week 6 Practice/Week 6 Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Practice/Final Prep/Final Prep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Practice/JavaFx/JavaFx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Practice/Lab 02/Lab 02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Practice/Week 12 Testing Lectures/Week 12 Testing Lectures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2522 (Java)/Quiz streams and filter prep/Quiz streams and filter prep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 2)/Comp 2714 (Database)/Projects/Project4/.idea/Project4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 3)/COMP 3522 (Python OOP 2)/Assignments/Assignment 02/.idea/Assignment 02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 3)/COMP 3760 (Algorithm)/Assignments/Assignment 1/Assignment 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 3)/COMP 3760 (Algorithm)/Assignments/Assignment 1/out/production/Assignment 1/Assignment 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 3)/COMP 3760 (Algorithm)/Assignments/Assignment 3/.idea/Assignment 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 3)/COMP 3760 (Algorithm)/Assignments/Assignment 3/HashSim/HashSim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 3)/COMP 3760 (Algorithm)/Assignments/Assingment 4/Assingment 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../BCIT (Term 3)/COMP 3760 (Algorithm)/Assignments/Assingment 4/out/production/Assingment 4/Assingment 4.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Glonkz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Glonkz/dotnet-rocks_DELETE.git",
+    "accountId": "603dc3e9-d805-45f9-8d15-b4b509a2324d"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.8588982558920781" />
+      <entry key="MS500" value="3.7460678122623716" />
+      <entry key="S2" value="7.134441294124881" />
+      <entry key="S5" value="14.594774808135579" />
+      <entry key="S10" value="21.7167228700045" />
+      <entry key="S30" value="30.03333842216276" />
+      <entry key="S60" value="32.82848704118329" />
+      <entry key="M2" value="34.363763349811165" />
+      <entry key="M5" value="35.33291929834835" />
+      <entry key="M10" value="35.66432136289264" />
+      <entry key="M15" value="35.7757360081705" />
+      <entry key="M30" value="35.88762811750244" />
+      <entry key="H1" value="35.943753942319546" />
+      <entry key="H2" value="35.97186192391267" />
+      <entry key="H4" value="35.98592719787456" />
+      <entry key="D1" value="35.9976540099972" />
+      <entry key="W1" value="35.99966484576081" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.766727046186748" />
+      <entry key="MS500" value="3.708558622391541" />
+      <entry key="S2" value="7.116148253537066" />
+      <entry key="S5" value="14.577780677789054" />
+      <entry key="S10" value="21.702726365085038" />
+      <entry key="S30" value="30.02630955508983" />
+      <entry key="S60" value="32.824556093730486" />
+      <entry key="M2" value="34.36168178404544" />
+      <entry key="M5" value="35.33205712698055" />
+      <entry key="M10" value="35.66388520595556" />
+      <entry key="M15" value="35.77544409878636" />
+      <entry key="M30" value="35.88748159095227" />
+      <entry key="H1" value="35.94368053555039" />
+      <entry key="H2" value="35.97182518458818" />
+      <entry key="H4" value="35.98590881921902" />
+      <entry key="D1" value="35.997650945638156" />
+      <entry key="W1" value="35.999664407964616" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JIxTj9WrT2gAD0WDRhqzfnqUtJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa39536-8165-471c-b873-56ec5ce23ded" name="Changes" comment="" />
+      <created>1789362395684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789362395684</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

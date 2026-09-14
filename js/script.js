@@ -230,16 +230,23 @@ class MemoryGame {
         const currentWindowWidth = window.innerWidth;
         const currentWindowHeight = window.innerHeight;
 
+        const containerRect = this.ui.container.getBoundingClientRect();
+        const containerLeftOffset = containerRect.left;
+        const containerTopOffset = containerRect.top;
+
         for (let i = 0; i < this.buttons.length; i++) {
             const btnElement = this.buttons[i].element;
             const btnWidth = btnElement.offsetWidth;
             const btnHeight = btnElement.offsetHeight;
 
-            const maxCoordX = Math.max(0, currentWindowWidth - btnWidth);
-            const maxCoordY = Math.max(0, currentWindowHeight - btnHeight);
+            const maxCoordX = currentWindowWidth - btnWidth - containerLeftOffset;
+            const maxCoordY = currentWindowHeight - btnHeight - containerTopOffset;
 
-            const randomX = Math.floor(Math.random() * maxCoordX);
-            const randomY = Math.floor(Math.random() * maxCoordY);
+            const safeMaxX = Math.max(0, maxCoordX);
+            const safeMaxY = Math.max(0, maxCoordY);
+
+            const randomX = Math.floor(Math.random() * safeMaxX);
+            const randomY = Math.floor(Math.random() * safeMaxY);
 
             this.buttons[i].setPosition(randomX, randomY);
         }
@@ -290,4 +297,4 @@ class MemoryGame {
 
 // Entry point
 new MemoryGame();
- 
+
