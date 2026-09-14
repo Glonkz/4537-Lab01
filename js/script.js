@@ -78,6 +78,7 @@ class UIController {
         this.messageDisplay = document.getElementById("message-display");
         this.container = document.getElementById("button-container");
 
+        // populates imported from STRINGS.
         this.applyLocalizedStrings();
     }
 
@@ -227,10 +228,13 @@ class MemoryGame {
      * Measures current window boundaries before moving buttons.
      */
     scramblePositions() {
+        // Making this so the buttons won't go out of bounds.
         const currentWindowWidth = window.innerWidth;
         const currentWindowHeight = window.innerHeight;
 
+        // This gets the relative sizes of the container.
         const containerRect = this.ui.container.getBoundingClientRect();
+
         const containerLeftOffset = containerRect.left;
         const containerTopOffset = containerRect.top;
 
@@ -239,9 +243,11 @@ class MemoryGame {
             const btnWidth = btnElement.offsetWidth;
             const btnHeight = btnElement.offsetHeight;
 
+            // Makes sure buttons stay withing window
             const maxCoordX = currentWindowWidth - btnWidth - containerLeftOffset;
             const maxCoordY = currentWindowHeight - btnHeight - containerTopOffset;
 
+            // This prevents negative numbers in-case of smaller resizing.
             const safeMaxX = Math.max(0, maxCoordX);
             const safeMaxY = Math.max(0, maxCoordY);
 
